@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# Menu App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Menu app to display pictures of food and different catagories. 
+
+I have been watching tutorials and practicing react. Starting to understand JS functions alot clearer and working with react hooks, specifically useState
 
 ## Available Scripts
 
