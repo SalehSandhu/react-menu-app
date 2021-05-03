@@ -1,0 +1,68 @@
+const menu = [
+    {
+      id: 1,
+      title: 'buttermilk pancakes',
+      category: 'breakfast',
+      price: 15.99,
+      img: './images/item-1.jpeg',
+      desc: `Thick, fluffy pancakes served the American way with glazed bacon and maple syrup. This easy buttermilk pancake recipe will save your brunch.`,
+    },
+    {
+      id: 2,
+      title: 'diner double',
+      category: 'lunch',
+      price: 13.99,
+      img: './images/item-2.jpeg',
+      desc: `Canadian cheese, caramelized onions and Classic Diner sauce on a brioche bun. Served with wavy-cut French fries, hash browns, seasonal fruit, or dippable veggies. `,
+    },
+    {
+      id: 3,
+      title: 'godzilla milkshake',
+      category: 'dessert',
+      price: 6.99,
+      img: './images/item-3.jpeg',
+      desc: `oMilo blended with banana & mint chocolate chip ice cream, drizzled with melted chocolate & topped with more ice cream & Milo`,
+    },
+    {
+      id: 4,
+      title: 'muffins',
+      category: 'breakfast',
+      price: 20.99,
+      img: './images/item-4.jpeg',
+      desc: `A muffin is a small baked good made from batter. ... Muffins are single-serving quick breads, which rise with the help of baking soda or baking powder and eggs instead of yeast. They tend to be sweet and somewhat moist, but heavier than a cake or cupcake. `,
+    },
+    {
+      id: 5,
+      title: 'vegan burger',
+      category: 'lunch',
+      price: 22.99,
+      img: './images/item-5.jpeg',
+      desc: `A veggie burger is a burger patty that does not contain meat. These burgers may be made from ingredients like beans, especially soybeans and tofu, nuts, grains, seeds or fungi such as mushrooms or mycoprotein.`,
+    },
+    {
+      id: 6,
+      title: 'oreo dream',
+      category: 'dessert',
+      price: 18.99,
+      img: './images/item-6.jpeg',
+      desc: `These Oreo Pudding Dream Bars are a cookies and cream dessert. They have an Oreo cookie crust covered with layers of cream cheese, Oreo pudding, Cool Whip, and are topped with the crushed Oreos. You'll love this NO BAKE dessert because these cookies and cream bars are ones you'll be dreaming about for nights to come!`,
+    },
+    {
+      id: 7,
+      title: 'english breakfast',
+      category: 'breakfast',
+      price: 8.99,
+      img: './images/item-7.jpeg',
+      desc: `Sometimes also called a 'fry-up', the full English breakfast consists of fried eggs, sausages, back bacon, tomatoes, mushrooms, fried bread and often a slice of white or black pudding (similar to bloodwurst). It is accompanied by tea or coffee and hot, buttered toast.`,
+    },
+    {
+      id: 8,
+      title: 'american classic',
+      category: 'lunch',
+      price: 12.99,
+      img: './images/item-8.jpeg',
+      desc: `A hot dog (also spelled hotdog) is a food consisting of a grilled or steamed sausage served in the slit of a partially sliced bun. `,
+    },
+ 
+  ];
+  export default menu;
