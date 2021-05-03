@@ -4,6 +4,8 @@ Menu app to display pictures of food and different catagories.
 
 I have been watching tutorials and practicing react. Starting to understand JS functions alot clearer and working with react hooks, specifically useState
 
+project was creted with the aid off: https://www.youtube.com/watch?v=a_7Z7C_JCyo&t=5241s
+
 ## Available Scripts
 
 In the project directory, you can run:
